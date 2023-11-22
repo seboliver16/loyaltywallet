@@ -1,6 +1,6 @@
 # loyaltywallet
 
-A new Flutter project.
+A Flutter Project to create a loyalty program that works for small and medium businesses
 
 ## Getting Started
 
